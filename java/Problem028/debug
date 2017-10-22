@@ -1,0 +1,2 @@
+#!/bin/bash
+java -cp ./src:./lib/stdlib.jar:./bin Problem028

@@ -1,0 +1,2 @@
+#!/bin/bash
+javac -cp ./lib/stdlib.jar:./src -d ./bin src/Problem045.java
